@@ -6,7 +6,7 @@
 - Sola Mahjong：更新至9/27。
 - 8 Ball Pool：全球DAU、总收入、日度UA至9/27；总新进和国家DAU明细仍至9/13。国家DAU与全球总数的差额计Others。UA新进不与总新进相加，不倒推Organic。
 - Arrow Puzzle、Subway Surfers：全球DAU和经营数据更新至9/27。Arrow Puzzle的8/14和9/27收入各有一个分项缺失，总收入保持为空。
-- 新Miniclip表的收入分项标题待确认，先更新两列合计总收入；原有拆分只在旧事实可对应时保留，未确认的新拆分不猜测。
+- 用户已确认新Miniclip表IAA/IAP列标题写反；三款统一对调接入，收入分项已更新，缺失保持为空。
 
 8 Ball Pool UA使用真实日度国家、Android/iOS、媒体数据，替代旧月度来源，支持任意日期和周报；展示、点击单独保留。UA CPI按投入合计/UA新进合计重算。ROAS分别按产品、对应有效投入加权，排除未满对应天数批次。经营数据仍未拆OS。
 
