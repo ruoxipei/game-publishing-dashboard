@@ -2,7 +2,7 @@
 
 统计范围：2026-01-01 至 2026-09-27；各产品及指标按已提供日期展示，缺失保留为空。
 
-- Arrows：国家技术明细更新至9/26，Miniclip归UA；历史重叠数据替换，非重复追加。
+- Arrows：国家明细更新至9/27，Miniclip归UA；历史重叠数据替换，非重复追加。
 - Sola Mahjong：更新至9/27。
 - 8 Ball Pool：全球DAU、总收入、日度UA至9/27；总新进和国家DAU明细仍至9/13。国家DAU与全球总数的差额计Others。UA新进不与总新进相加，不倒推Organic。
 - Arrow Puzzle、Subway Surfers：全球DAU和经营数据更新至9/27。Arrow Puzzle的8/14和9/27收入各有一个分项缺失，总收入保持为空。
