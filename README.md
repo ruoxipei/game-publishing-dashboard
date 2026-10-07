@@ -5,7 +5,7 @@
 - Arrows：技术国家明细刷新至10/4，Miniclip归UA；重叠日期替换，不重复追加。
 - Sola Mahjong：完整9/21—10/4数据接入，之前日期保留原事实。
 - 8 Ball Pool：整体DAU、收入和日度UA至10/4；总新进、国家DAU仍截至9/13。UA新进不与经营总新进相加。
-- 8 Ball Pool：9/21起获客用户的ROAS7待补，暂留空；此前已成熟历史保留。ROAS1按来源日期和成熟度展示。
+- 8 Ball Pool：ROAS7已回补至9/27获客用户（观察截至10/4）；9/28以后获客用户未满7天，保持为空。ROAS1按来源日期和成熟度展示。
 - Arrow Puzzle、Subway Surfers：整体DAU、收入至10/4；本版Miniclip收入标题正常，按原标题读取IAA/IAP。历史修订同步更新。
 - Arrow Puzzle：8/14 IAA、10/4 IAP缺失，对应总收入为空；9/27 IAP已补齐。
 
